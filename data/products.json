@@ -39,5 +39,13 @@
             "https://github.com/svelte-book/sample-app/raw/main/static/angular-book-3.png"
         ]
     }
+    {
+        "id": "dummy",
+        "name": "dummy",
+        "price": 1000,
+        "images":[
+            "https://github.com/svelte-book/sample-app/raw/main/static/svelte-book-1.png"
+        ]
+    }
 
 ]
